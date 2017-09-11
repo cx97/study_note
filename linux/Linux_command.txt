@@ -1,3 +1,6 @@
 alias 添加快捷命令
 alias xx="xxxx"
 永久添加alias 在/etc/bashrc(linux配置文件)添加alias xx="xxxx"
+
+/etc/rc.local 不可以写入alias （写入开机配置文件）
+/etc/bashrc （写入环境设置文件）
