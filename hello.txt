@@ -1,2 +1,9 @@
 hello
+<<<<<<< HEAD
 hello
+=======
+add
+testing
+add
+good data
+>>>>>>> origin/testing
