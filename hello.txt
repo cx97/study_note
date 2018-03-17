@@ -1,1 +1,1 @@
-clear
+insert test news 
