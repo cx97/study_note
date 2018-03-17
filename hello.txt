@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hello
 <<<<<<< HEAD
 hello
@@ -7,3 +8,7 @@ testing
 add
 good data
 >>>>>>> origin/testing
+=======
+17.05
+12.59
+>>>>>>> origin/cx
