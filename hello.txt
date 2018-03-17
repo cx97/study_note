@@ -1,14 +1,1 @@
-<<<<<<< HEAD
-hello
-<<<<<<< HEAD
-hello
-=======
-add
-testing
-add
-good data
->>>>>>> origin/testing
-=======
-17.05
-12.59
->>>>>>> origin/cx
+clear
